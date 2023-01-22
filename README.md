@@ -1,2 +1,2 @@
 # NeuralNetworkZeroToHero
-Implenting the examples and exercise from ANdrej Karpathy's Neural Networks: Zero to Hero  series
+Implenting the examples and exercise from Andrej Karpathy's Neural Networks: Zero to Hero  series
